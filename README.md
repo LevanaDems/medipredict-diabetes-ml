@@ -62,3 +62,11 @@ medipredict/
 ## Avertissement
 
 Ce projet est un outil de sensibilisation. Il ne remplace pas un avis médical.
+
+
+
+Lien vers le projet:
+
+Github: https://github.com/LevanaDems/medipredict-diabetes-ml.git
+
+Streamlit Cloud:  https://medipredict-app.streamlit.app/
